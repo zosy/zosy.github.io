@@ -1,2 +1,1 @@
-#zuoshunyao.com
-# zosy.github.io
+this is my personal website.
